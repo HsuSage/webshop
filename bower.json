@@ -1,0 +1,29 @@
+{
+  "name": "webshop",
+  "description": "node net shop",
+  "main": "index.js",
+  "authors": [
+    "xu"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "net",
+    "shop"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "webshop",
+  "version": "1.0.0",
+  "description": "this is a web shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HsuSage/CC/webshop"
+  },
+  "keywords": [
+    "shop",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "xu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
